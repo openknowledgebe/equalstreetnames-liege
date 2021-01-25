@@ -157,6 +157,7 @@ Burenville,,,way
 "Chemin de la Soquette",,,way
 "Chemin des Cèdres",,,way
 "Chemin des Puisatiers",,,way
+"Chemin des Samares",,,way
 "Chemin des Soupirs",,,way
 "Chemin des Trèfles des Prés",,,way
 "Chemin du Bois",,,way
@@ -377,6 +378,7 @@ Lavaniste-Voie,,,way
 "Place du Haut-Pré",,,way
 "Place du Marché",,,relation
 "Place du Nord",,,way
+"Place du Parc",,,way
 "Place du Tilleul",,,way
 "Place du Vieux-Puits",,,way
 "Place du Wérihet",,,way
@@ -1151,7 +1153,7 @@ Rodgy-Thier,,,way
 "Rue d'Amay",,,way
 "Rue d'Amercœur",,,way
 "Rue d'Angleur",,,way
-"Rue d'Ans",,,way
+"Rue d'Ans",,,relation
 "Rue d'Anthisnes",,,way
 "Rue d'Awans",,,relation
 "Rue d'Elmer",,,way
