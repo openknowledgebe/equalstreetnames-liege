@@ -378,7 +378,7 @@ Lavaniste-Voie,,,way
 "Place du Fourchu Fossé",,,way
 "Place du Général Leman",,,way
 "Place du Gravier",,,way
-"Place du Haut-Pré",,,way
+"Place du Haut-Pré",,,relation
 "Place du Marché",,,relation
 "Place du Nord",,,way
 "Place du Parc",,,way
@@ -1801,6 +1801,7 @@ Rodgy-Thier,,,way
 "Square Charlemagne",,,relation
 "Square Edmond Cathewis",,,way
 "Square Gramme",,,way
+"Square Saint-Léonard",,,way
 "Square de la Paix d'Angleur",,,way
 "Thier Dame Ide",,,way
 "Thier Des Minimes",,,way
