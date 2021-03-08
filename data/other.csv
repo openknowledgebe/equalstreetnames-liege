@@ -151,6 +151,7 @@ Burenville,,,way
 "Chemin de Rabosée",,,way
 "Chemin de l'Ecurie",,,way
 "Chemin de l'Osier",,,way
+"Chemin de la Botanique",,,way
 "Chemin de la Citadelle",,,way
 "Chemin de la Clepsydre",,,way
 "Chemin de la Curiosité",,,way
@@ -265,6 +266,7 @@ GR57,,,way
 Jonruelle,,,way
 L'Agora,,,way
 "La Batte",,,way
+"Large Voie",,,way
 Lavaniste-Voie,,,way
 "Le Cadran",,,way
 "Le Carré",,,relation
@@ -289,6 +291,7 @@ Lavaniste-Voie,,,way
 "Passerelle Saucy",,,way
 "Passerelle Vivegnis",,,way
 "Passerelle de la Principauté de Liège",,,way
+"Pazé del Vingne des Beddines",,,way
 "Pelouse de dispersion ""Les Acacias""",,,way
 "Place André Renard",,,way
 "Place Andréa Jadoulle",,,way
@@ -876,7 +879,6 @@ Rodgy-Thier,,,way
 "Rue Lambinon",,,way
 "Rue Laport",,,way
 "Rue Large",,,way
-"Rue Large Voie",,,way
 "Rue Lassaux",,,way
 "Rue Laurent de Koninck",,,way
 "Rue Lebeau",,,way
@@ -1787,6 +1789,7 @@ Rodgy-Thier,,,way
 "Sentier de la Bure du Rossignol",,,way
 "Sentier de liaison",,,way
 "Sentier des Coteaux",,,way
+"Sentier des Meuniers",,,way
 "Sentier des Trois Chemins",,,way
 "Sentier des Waides",,,way
 "Sentier des vaches",,,way
@@ -1835,6 +1838,5 @@ Rodgy-Thier,,,way
 "Voye des Cotch'Tresses",,,way
 "Vôye des treûs Bouhons",,,way
 "Waide des Dames",,,way
-"chemin de la Botanique",,,way
 "chemin du Champ des Oiseaux",,,way
 "rue du Stalon",,,relation
